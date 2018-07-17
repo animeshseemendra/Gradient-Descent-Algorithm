@@ -1,2 +1,2 @@
 # Gradient-Descent-Algorithm
-Python Code on most famous data science algorithm
+Python Code on the most famous data science algorithm
